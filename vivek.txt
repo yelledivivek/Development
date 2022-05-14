@@ -1,0 +1,69 @@
+Since I am a fresher, I am still learning. But I can vouch for the fact that I am a fast learner. 
+I am always open to learn and unlearn at the same time.  I have some fresh and raw ideas that I would like to discuss 
+with the management here if I make through and I am sure they will like a few of them. Hiring me can be a mutually 
+beneficial arrangement for this company and me. I don't see why I cannot be hired for this job or internship.
+
+
+resume link-   https://drive.google.com/open?id=1bEBlzzeY96yhbVdLV8yPTmU8AGfdQA3l
+
+
+link for R function - http://www.sr.bham.ac.uk/~ajrs/R/r-function_list.html
+
+music link -  https://www.jango.com/browse_music
+
+if any problem with windows -       donate.msguides.com          msguides.com@gmail.com
+
+setwd("C:\\Users\\Lenovo\\Downloads\\eBooks\\Data Scienc course\\data work")
+
+
+#python
+import os
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+jupyter notebook into pdf - https://www.sejda.com/html-to-pdf
+
+online profile-https://zety.com/mycv/71cdc50d-19f8-44b2-b07d-5b2ce01144d9
+
+postman work-https://drive.google.com/open?id=1GxhFnXo7ys3hfwc0bIAX4ZBxDztpWUaQ
+
+Flask - https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+
+meet - https://www.meetup.com/find/events/
+
+MSSQLSERVER
+
+9407536883 shrthi
+
+projects - https://developer.ibm.com/
+
+
+Media(Wine Quality) - https://medium.com/@yelledivivek/finding-wine-quality-by-using-machine-learning-tools-81d6329d7462?sk=a34c52b701086874d6470333d2efa7fb
+
+
+data generator -  https://mockaroo.com/
+
+https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/
+
+https://github.com/IBM/xgboost-smote-detect-fraud
+
+web pages - wix.com
+
+https://neosmart.net/wiki/restore-to-factory-settings/#Restore_without_installation_CDDVD-2
+
+http://127.0.0.1:8000/
+
+One Time Profile Registration ID : VSWS60255751
+
+101339708979
+QSaY94fn
+
+
+screen mirroer - scrcpy 
+
+
+keytweak - for keywords
+

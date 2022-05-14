@@ -1,0 +1,40 @@
+For all modules -  pip freeze
+
+python version - python ––version
+
+creating Virtual Environments - virtualenv _name_ 
+(this line will create a virtualenv in which ever directory you are)
+
+Virtual Environments dir - cd C:\Users\Lenovo\Envs
+
+activating Virtual Environments - _name_\Scripts\activate
+
+list of Virtual Environments - lsvirtualenv
+
+C:/Users/Lenovo/Envs/web/Scripts/activate.bat
+
+C:\Users\Lenovo\Scrapy\scrapy\Scripts\activate.bat
+
+C:\Users\Lenovo\Front_End\Scripts\activate
+
+Djangon version - python -m django --version
+
+python manage.py runserver
+
+
+import WbSunnySharpIcon from '@material-ui/icons/WbSunnySharp';
+
+
+
+React styled Components - https://react-bootstrap.github.io/
+
+Map's - https://react-leaflet.js.org/
+
+Image - https://www.w3schools.com/css/css3_images.asp
+
+Auth -- https://django-rest-auth.readthedocs.io/en/latest/index.html
+
+comments -- https://django-comments-xtd.readthedocs.io/en/latest/tutorial.html
+
+
+
